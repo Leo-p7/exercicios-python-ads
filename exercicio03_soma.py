@@ -1,0 +1,6 @@
+"""
+Ler dois valores numéricos e escrever a soma destes
+"""
+num1 = float(input("Digite o primeiro número: "))
+num2 = float(input("Digite o segundo número: "))
+print("O resultado é:", num1 + num2)
